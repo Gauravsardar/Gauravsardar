@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on improving my skills in AI domain, and learning machine learning on the go.<br>I would love to collaborate on projects on AI, django, flask.<br>
+I am a second-year student, pursuing a Btech from Vivekananda Institute of Professional studies, GGSIPU. I am seeking a role that allows me to continue learning and perfecting my skills. I am always looking forward to strengthening my skills and polishing them. I am a quick learner and I adapt to new places with ease. I am currently working on improving my skills in AI domain, and learning machine learning on the go.<br>I would love to collaborate on projects on AI, django, flask.<br>
 
 
 # 💻 Tech Stack:
